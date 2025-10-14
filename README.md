@@ -1,2 +1,9 @@
-# learning-github-competency-CSE485
-Repository created to demonstrate my GitHub competency for CSE485 Capstone
+# Learning GitHub Competency
+
+This repository demonstrates my growing competency in using GitHub for version control and collaboration.
+
+## Skills Demonstrated
+- Creating and managing repositories  
+- Making commits and tracking changes  
+- Working with branches  
+- Writing README documentation 
