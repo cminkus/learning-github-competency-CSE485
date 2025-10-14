@@ -6,4 +6,6 @@ This repository demonstrates my growing competency in using GitHub for version c
 - Creating and managing repositories  
 - Making commits and tracking changes  
 - Working with branches  
-- Writing README documentation 
+- Writing README documentation
+- Practiced branching and merging
+
